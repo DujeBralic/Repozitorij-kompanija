@@ -2,25 +2,25 @@
 
 U nastavku donosim detaljniju analizu iskustva s Baiduovim Apollo robotaksijima.  
 O ovoj i još nekoliko tema pisat ću u širem osvrtu s nedavnog posjeta kineskim tehnološkim kompanijama.  
-U svjetlu sve intenzivnijeg carinskog „rata“, posebno je zanimljivo promotriti kineski tehnološki sektor koji – za razliku od američkih tehnoloških giganata – još uvijek nije dovoljno poznat široj javnosti na Zapadu.  
+U svjetlu trgovinskog „rata“, posebno je zanimljivo promotriti kineski tehnološki sektor koji – za razliku od američkih tehnoloških giganata – još uvijek nije dovoljno poznat široj javnosti na Zapadu.  
 Upravo tu leže i neki od ključnih razloga sve izraženijih trgovinskih i ekonomskih tenzija između dviju sila.
 
 ## Baidu: Od tražilice do predvodnika autonomne vožnje
 
 **Baidu** je vodeća kineska tehnološka kompanija, najpoznatija po svojoj internetskoj tražilici – svojevrsnom „kineskom Googleu“.  
 No, uz pretraživanje interneta, kompanija ulaže ogromna sredstva u razvoj **umjetne inteligencije**, **cloud infrastrukture** i **autonomne mobilnosti**.  
-Jedan od najzrelijih projekata u tom smislu je upravo **Apollo Robotaxi** – autonomni taksi sustav koji koristi napredne tehnologije i djeluje u stvarnim urbanim okruženjima.
+Jedan od najzrelijih projekata u tom smislu je upravo **Apollo Robotaxi** – autonomni taksi sustav koji djeluje u stvarnim urbanim okruženjima.
 
-## Iskustvo vožnje: Bez šuma, uz autonomiju
+## Iskustvo vožnje: Bez šuma, 
 
-Tijekom posjeta, imao sam priliku isprobati Apollo robotaxi unutar **Baidu kampusa**.  
+Tijekom posjeta korporativnom središtu Baidu u Pekingu, imao sam priliku isprobati Apollo robotaxi unutar **Baidu kampusa** nekoliko kilometara.
 Vozilo se naručuje putem jednostavne aplikacije – dovoljno je nekoliko klikova, i taksi dolazi za svega par minuta.  
 Vožnja je bila izuzetno ugodna, gotovo neprimjetno autonomna, unatoč postignutoj brzini od **70 km/h**.
 
 Vozilo nas je prevezlo nekoliko kilometara bez potrebe za intervencijom vozača – osim na jednoj točki gdje su nedavno prebojene prometne linije, pa je sigurnosni vozač preuzeo upravljanje nakon zvučnog i vizualnog upozorenja.  
 Vozilo ne pokreće vožnju ako svi putnici nisu vezani, a svaki putnik ima ekran s prikazom okoline, senzora i navigacije u stvarnom vremenu.
 
-Trenutno Apollo robotaksiji prometuju u nekoliko kineskih gradova, najviše u **Wuhanu**, a javno su prisutni u **Beijing Economic-Technological Development Area** – zoni s naprednom **V2X infrastrukturom**.  
+Trenutno Apollo robotaksiji prometuju u nekoliko kineskih gradova, najviše u **Wuhanu**, a javno su prisutni i dostupni na korištenje u **Beijing Economic-Technological Development Area** – zoni s naprednom **V2X infrastrukturom**.  
 Planira se širenje na tržišta Bliskog Istoka, uključujući **UAE**.
 
 ## Tehnološki temelj: Tri stupa autonomije
