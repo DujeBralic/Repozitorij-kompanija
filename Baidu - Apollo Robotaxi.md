@@ -1,10 +1,5 @@
 # Baidu Apollo Robotaxi: 
 
-U nastavku donosim detaljniju analizu iskustva s Baiduovim Apollo robotaksijima.  
-O ovoj i još nekoliko tema pisat ću u širem osvrtu s nedavnog posjeta kineskim tehnološkim kompanijama.  
-U svjetlu trgovinskog „rata“, posebno je zanimljivo promotriti kineski tehnološki sektor koji – za razliku od američkih tehnoloških giganata – još uvijek nije dovoljno poznat široj javnosti na Zapadu.  
-Upravo tu leže i neki od ključnih razloga sve izraženijih trgovinskih i ekonomskih tenzija između dviju sila.
-
 ## Baidu: Od tražilice do cloud computinga i autonomne vožnje u Kini
 
 **Baidu** je vodeća kineska tehnološka kompanija, najpoznatija po svojoj internetskoj tražilici – „kineskom Googleu“.  
