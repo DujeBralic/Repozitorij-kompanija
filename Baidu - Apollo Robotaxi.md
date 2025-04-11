@@ -69,33 +69,11 @@ Drugim riječima, ti algoritmi omogućuju autu da ne reagira samo po pravilima, 
 Peking je predvodnik u omogućavanju testiranja i operacija autonomnih vozila, no i drugi kineski gradovi aktivno razvijaju vlastite **pametne prometne zone**, uz atraktivne poticaje i brže procedure licenciranja.
 
 U Kini, **HD mapiranje** je klasificirano kao osjetljiva informacija i dozvoljeno je samo odobrenim domaćim tvrtkama.  
-Podaci prikupljeni vozilima ne smiju se izvoziti bez posebnog odobrenja – dio šireg koncepta **digitalnog suvereniteta**.
+Podaci prikupljeni vozilima ne smiju se izvoziti bez posebnog odobrenja – dio šireg koncepta **digitalnog suvereniteta**. Baidu surađuje s lokalnim vlastima, telekomima i proizvođačima vozila na razvoju cjelovitog **ekosustava autonomne vožnje**.
 
-Baidu surađuje s lokalnim vlastima, telekomima i proizvođačima vozila na razvoju cjelovitog **ekosustava autonomne vožnje**.
+Također, Tesla Elona Muska i Baidu su u strateškom partnerstvu – Tesla donosi naprednu Full Self Driving (FSD) tehnologiju , dok Baidu osigurava legalnu i tehničku infrastrukturu potrebnu za operacije u Kini. Tesla aktivno pokušava dobiti licencu za FSD u Kini. To je ustaljeni model kojim strani investitor ulazi na tržište preko domaćeg partnera koji štiti suverenitet podataka i kontrolu infrastrukture. Tesla je i dalje lider u količini podataka iz prometa koje prikuplja i načinu kako iste koristi u treningu neuralnih mreža, no to je tema za drugi članak. Ovo je ustaljeni model gdje strani investitor ulazi na kinesko tržište putem domaćeg partnera koji štiti suverenitet podataka i infrastrukture.
 
-## Partnerstva i globalna perspektiva
+## Budućnost autonomne mobilnosti
 
-**Baidu i Tesla** su u strateškom partnerstvu:
-- Tesla donosi Full Self Driving (FSD) tehnologiju,
-- Baidu osigurava regulatornu i tehničku infrastrukturu za operacije u Kini.
+Za kraj, kakvi poslovni modeli i usluge mogu nastati pojavom robotaxija na ulicama? Otvara se prostor za razvoj čitavog niza digitalnih usluga – od personaliziranog infotainmenta i internetske kupovine unutar vozila, do lokacijskih preporuka i oglašavanja u realnom vremenu. Robotaksiji postaju dio šire mobilnosti kao servisa (MaaS), integrirani s javnim prijevozom i raznim loyalty sustavima. U pozadini se razvijaju pametni gradski sustavi temeljeni na prometnoj analitici i podatcima u stvarnom vremenu, dok vozila bez putnika omogućuju autonomnu dostavu hrane, paketa i robe.   Izgledno je da će u narednim godinama širenje ovih sustava se dogoditi relativno brzo na Bliskom Istoku (UAE, Saudijska Arabija), te u globalnim metropolama. No ono što bi izgledno mogla biti prepreka su infrastrukturni limiti, regulatorna crvena vrpca i pitanja oko informacijske sigurnosti, odnosno digitalnog suvereniteta.
 
-Ovo je ustaljeni model gdje strani investitor ulazi na kinesko tržište putem domaćeg partnera koji štiti suverenitet podataka i infrastrukture.
-
-## Što donosi budućnost?
-
-S razvojem robotaksija otvaraju se novi poslovni modeli:
-- Personalizirani infotainment,
-- Lokacijsko oglašavanje i online kupovina tijekom vožnje,
-- Integracija s javnim prijevozom i loyalty programima.
-
-U pozadini se razvijaju **pametni gradski sustavi**, dok **autonomna dostava** (hrane, paketa) dolazi na scenu.
-
-Najbrži razvoj očekuje se u:
-- **Bliskom Istoku (UAE, Saudijska Arabija)**
-- **Velikim svjetskim metropolama**
-
-No, izazovi ostaju – od **infrastrukture**, preko **regulative**, do pitanja **informacijske sigurnosti** i **digitalnog suvereniteta**.
-
----
-
-*Napisano kao dio refleksije na Tech Tour posjet kineskim tehnološkim kompanijama.*
