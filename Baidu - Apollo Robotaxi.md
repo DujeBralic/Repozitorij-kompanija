@@ -71,7 +71,7 @@ Peking je predvodnik u omogućavanju testiranja i operacija autonomnih vozila, n
 U Kini, **HD mapiranje** je klasificirano kao osjetljiva informacija i dozvoljeno je samo odobrenim domaćim tvrtkama.  
 Podaci prikupljeni vozilima ne smiju se izvoziti bez posebnog odobrenja – dio šireg koncepta **digitalnog suvereniteta**. Baidu surađuje s lokalnim vlastima, telekomima i proizvođačima vozila na razvoju cjelovitog **ekosustava autonomne vožnje**.
 
-Također, Tesla Elona Muska i Baidu su u strateškom partnerstvu – Tesla donosi naprednu Full Self Driving (FSD) tehnologiju , dok Baidu osigurava legalnu i tehničku infrastrukturu potrebnu za operacije u Kini. Tesla aktivno pokušava dobiti licencu za FSD u Kini. To je ustaljeni model kojim strani investitor ulazi na tržište preko domaćeg partnera koji štiti suverenitet podataka i kontrolu infrastrukture. Tesla je i dalje lider u količini podataka iz prometa koje prikuplja i načinu kako iste koristi u treningu neuralnih mreža, no to je tema za drugi članak. Ovo je ustaljeni model gdje strani investitor ulazi na kinesko tržište putem domaćeg partnera koji štiti suverenitet podataka i infrastrukture.
+Također, Tesla Elona Muska i Baidu su u strateškom partnerstvu – Tesla donosi naprednu Full Self Driving (FSD) tehnologiju , dok Baidu osigurava legalnu i tehničku infrastrukturu potrebnu za operacije u Kini. Tesla aktivno pokušava dobiti licencu za FSD u Kini. Tesla je i dalje lider u količini podataka iz prometa koje prikuplja i načinu kako iste koristi u treningu neuralnih mreža, no za pristup tržištu je potreban lokalni partner. Ovo je ustaljeni model gdje strani investitor ulazi na kinesko tržište putem domaćeg partnera koji štiti suverenitet podataka i infrastrukture.
 
 ## Budućnost autonomne mobilnosti
 
