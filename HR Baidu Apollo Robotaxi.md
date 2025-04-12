@@ -10,9 +10,9 @@ Jedan od najzrelijih projekata u tom smislu je upravo **Apollo Robotaxi** – au
 
 Autonomna vozila dijele se u šest razina – od 0 do 5. Na razini 0, vozilo nema nikakvu autonomiju i sve kontrolira vozač, dok razina 1 omogućuje jednu funkciju pomoći (npr. tempomat). Na razini 2, vozilo može istovremeno upravljati i kočiti/gasiti, ali vozač mora stalno nadgledati vožnju. 
 - Razina 3 omogućuje vozilu da samostalno vozi u određenim situacijama, no očekuje se da vozač preuzme kontrolu kad sustav to zatraži.
-- Kod razine 4, vozilo može u potpunosti voziti bez vozača, ali samo unutar unaprijed definiranih zona (npr. pametni gradski dijelovi).
+- Kod razine 4, vozilo može u potpunosti voziti bez vozača, ali samo unutar unaprijed definiranih zona s potrebnom infrastrukturom.
 
-Apollo koji smo testirali stoga možemo klasificirati kao Level 3/4.
+Apollo koji smo testirali možemo klasificirati kao Level 3/4.
 
 - Razina 5 znači potpuno autonomno vozilo koje može voziti bilo gdje, bez volana, papučica ili potrebe za ljudskom prisutnošću – u potpunosti preuzima ulogu vozača.
 
