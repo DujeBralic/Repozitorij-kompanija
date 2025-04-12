@@ -1,0 +1,91 @@
+# Baidu Apollo Robotaxi:
+
+## Baidu: From Search Engine to Cloud Computing and Autonomous Driving in China
+
+**Baidu** is China’s leading tech company, best known for its internet search engine – the "Chinese Google".  
+However, the company is investing heavily in the development of **artificial intelligence**, **cloud infrastructure**, and **autonomous mobility**.  
+
+One of the most mature projects in this area is **Apollo Robotaxi** – an autonomous taxi system operating in real urban environments.
+
+## Levels of Autonomy
+
+Autonomous vehicles are divided into six levels – from 0 to 5.  
+At Level 0, the vehicle has no autonomy and is fully controlled by the driver, while Level 1 allows a single driver-assist function (e.g. cruise control).  
+At Level 2, the vehicle can steer and accelerate/brake simultaneously, but the driver must continuously monitor the driving process.
+
+- Level 3 allows the vehicle to drive itself in specific scenarios, though the driver is expected to take over when prompted.
+- Level 4 enables the vehicle to drive fully autonomously, but only within predefined zones (e.g. smart city areas). The Apollo we tested fits within Level 3/4.
+- Level 5 represents full autonomy anywhere, with no steering wheel, pedals, or need for a human – fully replacing the driver.
+
+## Driving Experience: No Sense of Whether the Driver Is Present or Not
+
+During a visit to Baidu's headquarters in Beijing, I had the opportunity to try the Apollo robotaxi on a multi-kilometer route within the campus.  
+The vehicle is ordered through a simple app – a few clicks and the taxi arrives in just a few minutes.
+
+The ride was extremely smooth and precise, almost imperceptibly autonomous, even at speeds of **70 km/h**.  
+It completed the route without any driver intervention – except at one point where recently repainted road markings triggered a safety override, prompting the backup driver to take control after an audio and visual alert.
+
+The ride doesn’t start unless all passengers are buckled in, and each seat has a screen showing surroundings, sensor data, and real-time navigation.  
+Apollo robotaxis are already operating commercially in several Chinese cities, especially in **Wuhan**, and are publicly available in the **Beijing Economic-Technological Development Area**, which features advanced **V2X infrastructure**.  
+
+There are plans to expand to Middle Eastern markets, including the **UAE**.
+
+## How the System Works?
+
+## Technological Foundation: The Three Pillars of Autonomy
+
+### 1. Vehicle-to-Everything (V2X)
+
+Vehicles communicate with infrastructure, other vehicles, pedestrians, and the mobile network.  
+For example, a car can "know" when a traffic light is about to turn red, that another vehicle is approaching from behind a corner, or that a pedestrian is crossing the street, even if the human driver can't see it.  
+A **5G network** is essential for this connectivity, as well as for integrating smart devices (phones, bicycles) into the traffic system.
+
+### 2. Internet of Things (IoT) and Edge Computing
+
+Traffic lights, intersections, and roads are connected to **local edge computing nodes** along the roadside that enable real-time data processing.  
+These nodes act as local servers that process data instantly for autonomous vehicles, reducing latency via high-speed 5G.  
+They also allow real-time decision-making at the edge, using local models without relying on the cloud – enabling faster reactions, such as when a pedestrian suddenly appears.
+
+### 3. Sensor Systems
+
+Apollo vehicles use:
+
+- **LiDAR** (3D environmental mapping)  
+- **Radar** (detection in low-visibility conditions)  
+- **Cameras** (lane, sign, and pedestrian recognition)  
+- **Ultrasonic sensors** (short-distance detection)  
+- **GNSS+IMU system** (precise positioning)  
+
+All sensor data is combined with **deep learning algorithms** to make decisions in real traffic situations.  
+
+These algorithms allow the vehicle to learn from large amounts of environmental data – from cameras, sensors, other vehicles, and infrastructure – to recognize situations (e.g. pedestrian on road, sudden stop ahead), understand context, and decide how to respond – slow down, stop, or steer around.
+
+In short, the car not only follows rules but "understands" its environment and adapts in real-time.
+
+## Infrastructure and Regulation: The Key to Scaling
+
+Beijing is a pioneer in enabling the testing and deployment of autonomous vehicles, but other Chinese cities are actively developing their own **smart traffic zones**, supported by generous incentives and fast licensing procedures.
+
+In China, **HD mapping** is classified as sensitive data and is only permitted for approved domestic companies.  
+Data collected by vehicles may not be exported without special authorization – part of a broader **digital sovereignty** framework.
+
+Baidu collaborates with local governments, telecom providers, and automakers to build a comprehensive **autonomous driving ecosystem**.  
+
+Tesla and Baidu are in a strategic partnership – Tesla contributes its advanced Full Self Driving (FSD) technology, while Baidu provides the legal and technical infrastructure required to operate in China.  
+Tesla is actively seeking a license for FSD in China.
+
+While Tesla remains a leader in traffic data volume and neural network training, access to the Chinese market requires a **local partner** – a standard model where a foreign investor enters the market via a domestic partner that ensures data and infrastructure sovereignty.
+
+## The Future of Autonomous Mobility
+
+Finally, what business models and services might emerge with robotaxis on city streets?
+
+There's room for an entire range of digital services – from personalized infotainment and in-vehicle shopping, to real-time location-based recommendations and advertising.  
+Robotaxis become part of the broader **Mobility-as-a-Service (MaaS)** ecosystem, integrated with public transport and loyalty programs.
+
+Behind the scenes, smart city systems are being developed, based on real-time traffic analytics and data.  
+Driverless vehicles also enable **autonomous delivery** of food, parcels, and goods.
+
+These systems are expected to expand quickly in the coming years, particularly in the **Middle East (UAE, Saudi Arabia)** and global metropolises.  
+
+However, challenges remain: **infrastructure limitations**, **regulatory red tape**, and **data sovereignty concerns** could all pose barriers to broader adoption.
